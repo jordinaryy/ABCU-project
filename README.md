@@ -2,7 +2,7 @@
 
 # Project Submission for CS 300 - Data Structures and Algorithms
 
-## Submitted Artifacts:
+## Submitted Porjects:
 - Runtime and Memory Analysis (Project One)
 - Course Planner C++ Program (Project Two)
 
